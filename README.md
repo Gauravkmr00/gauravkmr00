@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan18314" alt="gaurav" /></a> </p>
 
-- 🌱 I’m currently working at unite microsystems as a *front-end development, *back-end development
+- 🌱 I’m currently working at unite microsystems as a Full stack development(*front-end development, *back-end development)
 - 👨‍💻 All of my projects are available at [My Portfolio]()
 - 💬 Ask me about *HTML, CSS, JQUERY,  BOOTSTRAP, MYSQL*
 <!--
