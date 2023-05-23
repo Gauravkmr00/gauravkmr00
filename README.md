@@ -11,6 +11,15 @@
 - 🌱 I’m currently working at unite microsystems as a Full stack development(*front-end development, *back-end development)
 - 👨‍💻 All of my projects are available at [My Portfolio]()
 - 💬 Ask me about *HTML, CSS, JQUERY,  BOOTSTRAP, MYSQL*
+- 📫 How to reach me *gaurav.kmkhg123@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="linkedin.com/in/gaurav-kumar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://https://www.hackerrank.com/fw18_0171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://https://www.hackerrank.com/fw18_0171" height="30" width="40" /></a>
+<a href="https://https://leetcode.com/raushan18314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav Kumar" height="30" width="40" /></a>
+<a href="https://https://auth.geeksforgeeks.org/user/raushan18314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurav Kumar" height="30" width="40" /></a>
+</p>
 <!--
 **Gauravkmr00/gauravkmr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
