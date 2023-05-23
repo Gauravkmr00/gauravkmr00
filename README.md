@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Gaurav+Kumar!;PHP Developer...;" style="width: 100%;">
 
 <!--
 **Gauravkmr00/gauravkmr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
