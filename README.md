@@ -5,6 +5,9 @@
 <img align="right" width="400" src="https://thrivemyway.com/wp-content/uploads/2021/11/Computer-animation-software-e1638027651347.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan18314&label=Profile%20views&color=0e75b6&style=flat" alt="raushan18314" /> </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan18314" alt="gaurav" /></a> </p>
+
 <!--
 **Gauravkmr00/gauravkmr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
